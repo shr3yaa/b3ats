@@ -3,7 +3,7 @@
 
 B3ats is a music mobile app for music lovers likes a simple and straightforward design layout, and love to play their favourite songs.
 
-It is built on Android Studio using Java and integrated with mySQL databse. I worked on this Year 1 project in 2019.
+It is built on Android Studio using Java and is integrated with mySQL databse. I worked on this Year 1 project in 2019.
 
 ## Features
 1. Sign up and login
