@@ -16,6 +16,11 @@ It is built on Android Studio using Java as a Year 1 project in 2019.
 8. Set timer
 
 ## Screenshots
+Low Fidelity Vs High Fidelity Prototype on AdobeXD
+<img width="750" alt="Screenshot 2023-12-18 at 8 10 50 PM" src="https://github.com/shr3yaa/b3ats/assets/87902706/9d06d9f0-7ab3-44d3-ae91-ddff68c435db">
+
+Android Studio
+<br>
 <img width="194" alt="Picture1" src="https://user-images.githubusercontent.com/87902706/130988263-b751c475-2e19-4272-85eb-b6cad05d81b4.png"> <img width="194" alt="Picture2" src="https://user-images.githubusercontent.com/87902706/130988267-1c8cbacf-c9d5-4549-bb31-b5874da7a5a8.png">  <img width="194" alt="Picture2" src="https://user-images.githubusercontent.com/87902706/130988274-9207ea4e-acb1-4aa1-b9b1-b2ce029aa197.png"> <img width="194" alt="Picture1" src="https://user-images.githubusercontent.com/87902706/130988280-71491157-8de8-4f1a-899e-432b242beabe.png"><img width="194" alt="Picture1" src="https://user-images.githubusercontent.com/87902706/130988292-6ededd3e-0c27-4a22-957f-26c8d2995be9.png"><img width="194" alt="Picture1" src="https://user-images.githubusercontent.com/87902706/130991931-a64b4497-9b24-4c8b-ba11-9de7ab57a0ca.png">
 
 
